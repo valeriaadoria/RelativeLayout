@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="programas">
+        <item>Looney Toons</item>
+        <item>Volver al futuro</item>
+        <item>Comic</item>
+    </string-array>
+    
+</resources>

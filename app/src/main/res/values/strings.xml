@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RelativeLayout</string>
+    <string name="cambiar">Cambiar</string>
+    <string name="sintonizanos_la_proxima_semana">Sintonizanos la proxima semana</string>
+    <string name="canal_5">Canal 5</string>
+    <string name="datos">Datos</string>
+    <string name="valor">Valor</string>
+    <string name="canal">Canal</string>
+    <string name="programas">Programas</string>
+</resources>
